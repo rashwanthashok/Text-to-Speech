@@ -82,7 +82,8 @@ Note: The provided code serves as a foundation for a basic text-to-speech conver
 - Speech playback: By clicking the "LISTEN" button, the application converts the entered text into speech and plays it back using the selected voice.
 
 
-
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/266c43c8-48b1-48d3-a75e-7c0b9cc795f0/deploy-status)](https://app.netlify.com/sites/jsprojects20-text-to-speech/deploys)
 
 
 ## Contributing
