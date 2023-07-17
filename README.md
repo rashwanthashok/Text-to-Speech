@@ -18,7 +18,7 @@ Rashwanth - Text to speech is a web application that converts text into speech. 
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Text-to-speech-website/
+    (https://rashwanthashok.github.io/Text-to-Speech/)
 ## Getting Started
 
 To get started with the Text-to-Speech Converter, follow these steps:
